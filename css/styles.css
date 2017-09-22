@@ -1,7 +1,22 @@
+body {
+  background-color: black;
+}
+
 #salwati {
   text-align: center;
+  background-image: url("../images/games.jpg");
+}
+
+#salwati1 {
+  text-align: left;
+  background-image: url("../images/Vector.jpg");
+  background-size:
 }
 
 #salwati2 {
+  text-align: center;
+}
+
+#ping-pong {
   text-align: center;
 }
